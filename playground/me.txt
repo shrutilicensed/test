@@ -1,0 +1,5 @@
+{{shrutilicensed}}
+Name: Shruti Choudhary
+Skills: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, OOP, Java, MySQL, UI/UX, Figma
+Email: shruti.licensed@gmail.com
+{{/shrutilicensed}}
